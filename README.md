@@ -48,3 +48,12 @@ Haz commit de tus cambios.
 Envía un Pull Request.
 
 Desarrollado con fines educativos para fomentar el talento en ingeniería. 🚀
+
+/mi_proyecto
+│── main.py
+│── challenges.json
+│── /static           <--- NUEVA CARPETA
+│     │── img1.jpg
+│     │── img2.jpg
+│── /retos
+│── /reportes
